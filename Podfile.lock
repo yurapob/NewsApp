@@ -1,0 +1,25 @@
+PODS:
+  - DifferenceKit (1.1.5):
+    - DifferenceKit/Core (= 1.1.5)
+    - DifferenceKit/UIKitExtension (= 1.1.5)
+  - DifferenceKit/Core (1.1.5)
+  - DifferenceKit/UIKitExtension (1.1.5):
+    - DifferenceKit/Core
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - DifferenceKit (= 1.1.5)
+  - SnapKit (= 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - DifferenceKit
+    - SnapKit
+
+SPEC CHECKSUMS:
+  DifferenceKit: 516f12e336ed65a3a0665847b5c3cb5cad4bd4ea
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: ef58810cc47907fa788ea5c5d0323319a85bf12e
+
+COCOAPODS: 1.11.2
